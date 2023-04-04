@@ -23,7 +23,7 @@ Kali Linux is a distribution designed for ethical hackers to perform penetration
 This new distro is still in the early stages but already includes over 100 defensive tools, including Malcolm, Surricata, Arkime, TheHive, and Zeek, and a dedicated Wiki to help you get started
 </pre>
 
-## More Details <a href="https://bleepingcomputer.com/news/security/kali-linux-20231-introduces-purple-distro-for-defensive-security/">here</a>
+#### More Details <a href="https://bleepingcomputer.com/news/security/kali-linux-20231-introduces-purple-distro-for-defensive-security/">here</a>
 
 ## Kali Virtual Machine Image Details
 <pre>
