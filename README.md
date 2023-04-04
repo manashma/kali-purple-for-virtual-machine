@@ -38,7 +38,7 @@ OS username: kali
 Password: kali
 Domain: kali
 ZIP File Password: kali
-Download Source: Mediafire (No Ads)
+Download Source: Mediafire / Mega / Anonfiles (No Ads)
 </pre>
 
 ### Download Link : <a href="https://craftlibrary.space/404.shtml">Get kali free</a>
