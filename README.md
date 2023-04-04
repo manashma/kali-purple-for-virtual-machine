@@ -23,3 +23,14 @@ This new distro is still in the early stages but already includes over 100 defen
 </pre>
 
 ## More Details <a href="https://bleepingcomputer.com/news/security/kali-linux-20231-introduces-purple-distro-for-defensive-security/">here</a>
+
+## Kali Virtual Machine Image Details
+<pre>
+*Name:* Kali Purple
+*OS:* Ubuntu 64 bit
+*Base Memory:* 2048 MB 
+*Boot Order:* Floppy, Optical, Hard Disk
+*Video Memory:* 128 MB
+*Storage:* 25 GB
+
+</pre>
