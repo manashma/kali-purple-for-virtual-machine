@@ -41,5 +41,5 @@ ZIP File Password: kali
 Download Source: Mediafire / Mega / Anonfiles (No Ads)
 </pre>
 
-### Download Link : <a href="https://craftlibrary.space/404.shtml">Get kali free</a>
-<p style="text-align:center;"><b>Not Available Yet</b></p>
+### Download Link : <a href="https://craftlibrary.space/kali_purple.html">Get kali free</a>
+<p style="text-align:center;"><b>Available on Mega</b></p>
