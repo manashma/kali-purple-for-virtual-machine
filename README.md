@@ -42,4 +42,4 @@ Download Source: Mediafire (No Ads)
 </pre>
 
 ### Download Link : <a href="https://craftlibrary.space/404.shtml">Get kali free</a>
-Not Available Yet
+<p style="text-align:center;"><b>Not Available Yet</b></p>
