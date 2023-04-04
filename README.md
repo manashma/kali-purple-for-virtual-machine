@@ -26,7 +26,7 @@ This new distro is still in the early stages but already includes over 100 defen
 
 ## Kali Virtual Machine Image Details
 <pre>
-*Name:* Kali Purple
+## Name: Kali Purple
 *OS:* Ubuntu 64 bit
 *Base Memory:* 2048 MB 
 *Boot Order:* Floppy, Optical, Hard Disk
