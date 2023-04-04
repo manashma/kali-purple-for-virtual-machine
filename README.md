@@ -7,8 +7,8 @@
 ## Features
 
 #### Kali Linux Team introduces a variety of new features, including:
-1.Kali Purple for Blue and Purple Teams
-2. Eight new tools!
-3. Warning about Python changes
-4. A Kali theme refresh
-5. More
+#### 1.Kali Purple for Blue and Purple Teams
+#### 2. Eight new tools!
+#### 3. Warning about Python changes
+#### 4. A Kali theme refresh
+#### 5. More
