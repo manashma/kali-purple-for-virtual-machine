@@ -10,7 +10,7 @@
 1.Kali Purple for Blue and Purple Teams
 2. Eight new tools!
 3. Warning about Python changes
-4. A Kali theme refresh
+4. A Kali theme refresh 
 5. More
 
 ## Kali Purple
