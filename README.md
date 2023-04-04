@@ -26,11 +26,18 @@ This new distro is still in the early stages but already includes over 100 defen
 
 ## Kali Virtual Machine Image Details
 <pre>
-## Name: Kali Purple
-*OS:* Ubuntu 64 bit
-*Base Memory:* 2048 MB 
-*Boot Order:* Floppy, Optical, Hard Disk
-*Video Memory:* 128 MB
-*Storage:* 25 GB
+Name: Kali Purple
+OS: Ubuntu 64 bit
+Base Memory: 2048 MB 
+Boot Order: Floppy, Optical, Hard Disk
+Video Memory: 128 MB
+Storage: 25 GB
 
+OS username: kali
+Password: kali
+Domain: kali
+ZIP File Password: kali
+Download Source: Mediafire (No Ads)
 </pre>
+
+### Download Link : <a href="https://www.mediafire.com/file/noak03x4mc025ei/Kali+Purple.zip/file">Get kali free</a>
