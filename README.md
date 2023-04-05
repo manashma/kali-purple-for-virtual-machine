@@ -42,4 +42,4 @@ Download Source: Mediafire / Mega / Anonfiles (No Ads)
 </pre>
 
 ### Download Link : <a href="https://craftlibrary.space/kali_purple.html" target="_blank">Get kali free</a>
-<p style="text-align:center;"><b>Available on Mega</b></p>
+<p style="text-align:center;"><b>Available on Mega / Anonfiles</b></p>
