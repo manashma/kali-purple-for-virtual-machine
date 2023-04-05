@@ -37,7 +37,7 @@ Storage: 25 GB
 OS username: kali
 Password: kali
 Domain: kali
-ZIP File Password: kali
+ZIP File Password: none
 Download Source: Mediafire / Mega / Anonfiles (No Ads)
 </pre>
 
