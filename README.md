@@ -43,4 +43,4 @@ Download Source: Mediafire / Mega / Anonfiles (No Ads)
 </pre>
 
 ### Download Link : <a href="https://craftlibrary.space/kali/" target="_blank">Get kali free</a>
-<p style="text-align:center;"><b>Available on Mega / Anonfiles / Mediafire</b></p>
+<p style="text-align:center;"><b>Available on Mega / Anonfiles [Not available this time] / Mediafire</b></p>
